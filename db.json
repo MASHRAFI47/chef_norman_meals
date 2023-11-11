@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Brown Salad",
-            "image": "./meal1.png",
+            "image": "../meal1.png",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$45"
         },
