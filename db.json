@@ -3,27 +3,27 @@
         {
             "id": 1,
             "title": "Brown Salad",
-            "image": "../meal1.png",
+            "image": "images/meal1.png",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$45"
         },
         {
             "id": 2,
             "title": "Veg Pasta",
-            "image": "./meal2.png",
+            "image": "images/meal2.png",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$50"
         },
         {
             "id": 3,
-            "image": "./meal3.png",
+            "image": "images/meal3.png",
             "title": "Seafood",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$45"
           },
           {
             "id": 4,
-            "image": "./meal1.png",
+            "image": "images/meal1.png",
             "title": "Rogetta",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$45"
@@ -31,27 +31,27 @@
           {
             "id": 5,
             "title": "Pizza",
-            "image": "./meal1.png",
+            "image": "images/meal1.png",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$45"
         },
         {
             "id": 6,
             "title": "Burger",
-            "image": "./meal2.png",
+            "image": "images/meal2.png",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$50"
         },
         {
             "id": 7,
-            "image": "./meal3.png",
+            "image": "images/meal3.png",
             "title": "Octopus Seafood",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$45"
           },
           {
             "id": 8,
-            "image": "./meal1.png",
+            "image": "images/meal1.png",
             "title": "Rogetta",
             "desc": "Sadipscing justo sit et labore duo eos at justo dolore, dolore dolore et justo sed.",
             "price": "$45"
